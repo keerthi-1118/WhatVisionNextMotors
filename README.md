@@ -33,7 +33,9 @@ This Salesforce-based system focuses on improving:
 - Validation Rules
 - Custom Objects & Fields
 - Batch Jobs
-  
+
+---
+
 💡 What I Learned
 - Building scalable data models in Salesforce  
 - Automating business processes with Flows and Apex  
